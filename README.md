@@ -12,3 +12,14 @@
 index.html, style.css, app.js, data.js는 빌드 없이 실행합니다. 이미지와 영상은 공개 Sites 주소에서 불러옵니다. 기존 code_artifact.html 및 myeongdo-1028 자료는 보존했습니다.
 
 음악은 합성 음원이며, 작품 감상문은 AI 작성 글로 실제 평론가의 기고문이 아닙니다. 소개 제목은 전시를 위해 붙였습니다.
+
+## Autumn Poetry Collection
+
+가을 시집 《가을이 남기는 바람》은 `autumn-poetry/`에서 엽니다.
+
+- 경로: `/autumn-poetry/`
+- 영문 표기: *The Wind Autumn Leaves Behind*
+- 4부 30편 현대 생활시 개정 제안본 및 작품별 해설
+- 128쪽 책장 넘김·차례·기기 음성 읽기·인쇄/PDF 저장
+- 기존 제목 11편의 개작 제안과 추가 창작 19편으로 구성. 시화·음원·악보는 별도 제작 대기.
+- 편집 저장은 각 방문자의 브라우저에만 적용됩니다.
